@@ -3,5 +3,6 @@ the rainbow
 purple 
 pink
 orange
+green
 red
 these are the colours of my rainbow
