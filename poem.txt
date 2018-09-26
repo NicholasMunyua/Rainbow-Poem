@@ -6,6 +6,7 @@ purple
 pink
 orange
 indigo
+recycle
 unicorn
 indigo
 green
