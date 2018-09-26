@@ -6,6 +6,7 @@ purple
 pink
 orange
 unicorn
+indigo
 green
 red
 these are the colours of my rainbow
